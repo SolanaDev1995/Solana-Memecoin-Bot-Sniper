@@ -14,6 +14,8 @@
 
 ## Quick Start
 
+##DOWLOAD THE ZIP FILE FOR IT TO WORK 
+
 1. **Install Dependencies**:
    ```bash
    npm install
