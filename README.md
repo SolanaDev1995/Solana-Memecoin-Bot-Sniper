@@ -36,7 +36,7 @@
 
 ## Configuration
 
-The bot is configured through a `.env` file:
+The bot is configured through a `.env` file: (keep RPC and WS as default it will set one automatically if you don't have one)
 
 ```plaintext
 RPC_ENDPOINT=https://your.rpc.endpoint (Helius recommended)
